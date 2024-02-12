@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-0707&show_icons=true&locale=en&layout=compact" alt="anushka-0707" /></p>
 
-<p><img align="right" display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-0707&" alt="anushka-0707" /></p>
+<p><img align="center" display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-0707&" alt="anushka-0707" /></p>
