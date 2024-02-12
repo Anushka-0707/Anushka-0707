@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Awasthi</h1>
 <h3 align="center">Trying to turn codes into optimal solutions.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://iconscout.com/lottie-animation/female-web-developer-7362400)">
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
 - 📫 How to reach me **ramniwasa707@gmail.com**
 
