@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka-0707&label=Profile%20views&color=0e75b6&style=flat" alt="anushka-0707" /> </p>
 
+- 🌱 I’m currently learning **Full Stack Web Development (MERN)**
+
 <img align="right" alt="Coding" height="220" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
 - 📫 How to reach me **ramniwasa707@gmail.com**
@@ -18,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-0707&show_icons=true&locale=en&layout=compact" alt="anushka-0707" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-0707&" alt="anushka-0707" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka-0707&" alt="anushka-0707" /></p>
